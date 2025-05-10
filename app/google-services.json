@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "693897084901",
+    "firebase_url": "https://firestoreflutter-3a421-default-rtdb.firebaseio.com",
+    "project_id": "firestoreflutter-3a421",
+    "storage_bucket": "firestoreflutter-3a421.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693897084901:android:ee084a338836dfdad3790c",
+        "android_client_info": {
+          "package_name": "com.app.fyp.qrbasedattendanceapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4k56FIkvetgdnbNkwLr-TOyFqlc6onDQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
